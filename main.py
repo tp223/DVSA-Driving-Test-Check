@@ -68,7 +68,7 @@ else:
 
     # Perform operations via server
     server.login(smtp["login"], smtp["password"])
-    server.sendmail(sender, [smtp["recipient"]], msg.as_string())
+    server.sendmail(smtp["sender"], [smtp["recipient"]], msg.as_string())
     server.quit()
     
     print("Sent!")
