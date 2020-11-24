@@ -1,6 +1,9 @@
 # DVSA-Driving-Test-Check
 A simple Python bot which will send you an email when a test becomes available at the selected test center.
 
+## Cloud Version
+We have deployed this application to our new site https://www.copadrivingtest.co.uk so that you can get driving test cancellations for only £9.99 per licence. This includes checks every few minutes and test reservations with bookings made on request automatically. We would love your feedback so feel free to give it a go and get in touch.
+
 ## About
 Due to current high demand for driving tests I have built a simple python script which will quickly check the driving test booking page for any available tests and email you if there are any free. It is also free to use and fairly simple, just put your current test in to the script file and it will do the rest for you.
 
