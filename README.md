@@ -17,4 +17,4 @@ Due to current high demand for driving tests I have built a simple python script
 - Does not detect specific tests. It will only notify you if there is a test availabe at the chosen center
 - Continually send emails if there are tests available but no changes from previous check
 
-submit any queries to support@electrokid.co.uk
+submit any queries to hello@copadrivingtest.co.uk
