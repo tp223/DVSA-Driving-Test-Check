@@ -1,3 +1,6 @@
+# New Version
+We have released a new version of this application with test reservations and ways around the DVSA firewall. Just go to https://github.com/tp223/Driving-Test-Cancellations
+
 # DVSA-Driving-Test-Check
 A simple Python bot which will send you an email when driving test cancellations become available at the selected test center.
 
