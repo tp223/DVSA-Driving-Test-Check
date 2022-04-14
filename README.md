@@ -1,5 +1,5 @@
-# New Version
-We have released a new version of this application with test reservations and ways around the DVSA firewall. Just go to https://github.com/tp223/Driving-Test-Cancellations
+# Discontinued
+Sadly this version of the bot no longer works due to restrictions put in place by the DVSA.
 
 # DVSA-Driving-Test-Check
 A simple Python bot which will send you an email when driving test cancellations become available at the selected test center.
@@ -19,5 +19,3 @@ Due to current high demand for driving tests I have built a simple python script
 ## Limitations
 - Does not detect specific tests. It will only notify you if there is a test availabe at the chosen center
 - Continually send emails if there are tests available but no changes from previous check
-
-submit any queries to hello@copadrivingtest.co.uk
